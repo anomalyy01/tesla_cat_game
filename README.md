@@ -6,4 +6,4 @@
 #accumulate a score, each time the cat Tesla eliminates enemies;
 </p>
 
-![catvideo](https://github.com/ruthss0/tesla_cat_game/assets/82294375/19d83d1f-f832-4e0d-8bde-010796807b2f)
+![Uploading Untitled video - Made with Clipchamp (1).gif…]()
